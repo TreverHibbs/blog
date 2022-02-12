@@ -77,3 +77,29 @@ html {
 .postLink {
   color: black;
 }
+
+/* mobile */
+@media screen and (max-width: 900px) {
+  .post {
+    width: 80%;
+  }
+
+  .container {
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-template-columns: 1fr;
+    grid-template-rows: 0.1fr 1.9fr;
+    gap: 0px 0px;
+    grid-template-areas: "navigation" "main";
+  }
+
+  .navigation {
+    grid-area: navigation;
+    justify-self: left;
+    padding-left: 2%;
+  }
+
+  .main {
+    grid-area: main;
+  }
+}
