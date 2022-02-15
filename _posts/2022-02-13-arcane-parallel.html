@@ -1,15 +1,18 @@
+---
+layout: arcane-parallel
+---
+
+{% for item in site.data.arcane-parallel %}
+<h2 class="parallel-title">{{ item.section-title }}</h2>
 <div class="parallel-container">
-  <div>chair</div>
+  {% for item2 in item.parallels %}
+  <div class="title"><h3>{{ item2.title }}</h3></div>
   <div>
-    <img
-      class="fit-picture"
-      src="https://pbs.twimg.com/media/FGpu9EDVIAU4LwW?format=jpg&name=large"
-    />
+    <img class="fit-picture" src="{{ item2.link1 }}" />
   </div>
   <div>
-    <img
-      class="fit-picture"
-      src="https://pbs.twimg.com/media/FGpvI2TVQAEG9ou?format=jpg&name=large"
-    />
+    <img class="fit-picture" src="{{ item2.link2 }}" />
   </div>
+  {% endfor %}
 </div>
+{% endfor %}

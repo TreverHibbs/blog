@@ -30,6 +30,7 @@ html {
   grid-template-rows: 1fr;
   gap: 0px 0px;
   grid-template-areas: ".";
+  width: 100%;
 }
 
 .navigation {
@@ -47,8 +48,9 @@ html {
   place-self: center;
 }
 
-.postTitle {
+.post-title {
   text-align: center;
+  margin-bottom: 6%;
 }
 
 /* navigation */
@@ -68,6 +70,8 @@ html {
   flex-direction: column;
   justify-content: center;
   place-self: center;
+  margin: 0px;
+  padding: 0px;
 }
 
 .postTitle {

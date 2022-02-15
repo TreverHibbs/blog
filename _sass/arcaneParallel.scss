@@ -1,8 +1,8 @@
 .parallel-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-auto-rows: 10em;
-  gap: 2em 2em;
+  gap: 2% 2%;
+  margin-bottom: 10%;
 }
 
 .parallel-container div:nth-child(3n+1) {
@@ -11,5 +11,17 @@
 
 .fit-picture {
   width: 100%;
-  height: 100%;
+  margin-bottom: 10%;
+}
+
+.parallel-container .title {
+  place-self: center;
+}
+
+.arcane-parallel {
+  width: 90%;
+}
+.parallel-title {
+  text-align: center;
+  margin-bottom: 3%;
 }
