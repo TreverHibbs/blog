@@ -33,7 +33,6 @@ github_username:  jekyll
 #theme: my-theme
 plugins:
   - jekyll-feed
-  - jekyll-postcss
 
 defaults:
   - scope:
