@@ -1,17 +1,29 @@
-- section-title: Jinx and Ekko
+- section-title: Jinx
   parallels:
+    - title: Singing On Bridge
+      images:
+        - link: https://www.youtube.com/embed/BcNYqGHvGdo
+          video: True
+        - link: https://www.youtube.com/embed/ECNDL5tlWsQ
+          video: True
     - title: Chair
-      link1: https://pbs.twimg.com/media/FGpu9EDVIAU4LwW?format=jpg&name=large
-      link2: https://pbs.twimg.com/media/FGpvI2TVQAEG9ou?format=jpg&name=large
-    - title: Chair
-      link1: https://pbs.twimg.com/media/FGpu9EDVIAU4LwW?format=jpg&name=large
-      link2: https://pbs.twimg.com/media/FGpvI2TVQAEG9ou?format=jpg&name=large
+      images:
+        - link: https://pbs.twimg.com/media/FGpu9EDVIAU4LwW?format=jpg&name=large
+          video: False
+        - link: https://pbs.twimg.com/media/FGpvI2TVQAEG9ou?format=jpg&name=large
+          video: False
 
 - section-title: Jinx and Ekko
   parallels:
     - title: Chair
-      link1: https://pbs.twimg.com/media/FGpu9EDVIAU4LwW?format=jpg&name=large
-      link2: https://pbs.twimg.com/media/FGpvI2TVQAEG9ou?format=jpg&name=large
+      images:
+        - link: https://pbs.twimg.com/media/FGpu9EDVIAU4LwW?format=jpg&name=large
+          video: False
+        - link: https://pbs.twimg.com/media/FGpvI2TVQAEG9ou?format=jpg&name=large
+          video: False
     - title: Chair
-      link1: https://pbs.twimg.com/media/FGpu9EDVIAU4LwW?format=jpg&name=large
-      link2: https://pbs.twimg.com/media/FGpvI2TVQAEG9ou?format=jpg&name=large
+      images:
+        - link: https://pbs.twimg.com/media/FGpu9EDVIAU4LwW?format=jpg&name=large
+          video: False
+        - link: https://pbs.twimg.com/media/FGpvI2TVQAEG9ou?format=jpg&name=large
+          video: False

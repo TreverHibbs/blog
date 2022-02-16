@@ -1,0 +1,30 @@
+---
+layout: arcane-parallel
+---
+
+{% for item in site.data.arcane-parallel %}
+<h2 class="parallel-title">{{ item.section-title }}</h2>
+<div class="parallel-container">
+  {% for parallel in item.parallels %}
+  <div class="title"><h3>{{ parallel.title }}</h3></div>
+  <div class="parallels-images-container">
+    {% for image in parallel.images %}
+    <div class="parallels-image-container">
+      {% if image.video %}
+      <iframe
+        class="fit-video"
+        src="{{ image.link }}"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+      {% else %}
+      <img class="fit-picture" src="{{ image.link }}" />
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+  {% endfor %}
+</div>
+{% endfor %}
