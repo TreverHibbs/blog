@@ -1,29 +1,25 @@
 - section-title: Jinx
   parallels:
     - title: Singing On Bridge
+      video: True
       images:
         - link: https://www.youtube.com/embed/BcNYqGHvGdo
-          video: True
         - link: https://www.youtube.com/embed/ECNDL5tlWsQ
-          video: True
     - title: Chair
+      video: False
       images:
         - link: https://pbs.twimg.com/media/FGpu9EDVIAU4LwW?format=jpg&name=large
-          video: False
         - link: https://pbs.twimg.com/media/FGpvI2TVQAEG9ou?format=jpg&name=large
-          video: False
 
 - section-title: Jinx and Ekko
   parallels:
     - title: Chair
+      video: False
       images:
         - link: https://pbs.twimg.com/media/FGpu9EDVIAU4LwW?format=jpg&name=large
-          video: False
         - link: https://pbs.twimg.com/media/FGpvI2TVQAEG9ou?format=jpg&name=large
-          video: False
     - title: Chair
+      video: False
       images:
         - link: https://pbs.twimg.com/media/FGpu9EDVIAU4LwW?format=jpg&name=large
-          video: False
         - link: https://pbs.twimg.com/media/FGpvI2TVQAEG9ou?format=jpg&name=large
-          video: False
