@@ -1,23 +1,80 @@
+# https://imgur.com/a/BLIA7Du
 - section-title: Jinx
   parallels:
+    - title: Stealing Hex Gem/Crystal
+      video: False
+      images:
+        - link: https://i.imgur.com/1oiRLCS.png
+        - link: https://i.imgur.com/5ecWNor.png
+        - link: https://i.imgur.com/Lm2OANI.png
+    - title: Confronted For Jinxing
+      video: False
+      images:
+        - link: https://i.imgur.com/G9lRyJN.png
+        - link: https://i.imgur.com/MB6fJRW.png
+    - title: Overhearing
+      video: False
+      images:
+        - link: https://i.imgur.com/6YN3qOd.png
+        - link: https://i.imgur.com/AMMIyxo.png
+    - title: In Room
+      video: True
+      images:
+        - link: https://player.vimeo.com/video/679319181?h=07205cf061
+        - link: https://player.vimeo.com/video/679336102?h=3fdc5e311b
     - title: Singing On Bridge
       video: True
       images:
-        - link: https://www.youtube.com/embed/BcNYqGHvGdo
-        - link: https://www.youtube.com/embed/ECNDL5tlWsQ
-    - title: Chair
+        - link: https://player.vimeo.com/video/680218948?h=375c1c9efe
+        - link: https://player.vimeo.com/video/680221324?h=8c7d65d405
+    - title: Shooting Range
       video: False
       images:
-        - link: https://pbs.twimg.com/media/FGpu9EDVIAU4LwW?format=jpg&name=large
-        - link: https://pbs.twimg.com/media/FGpvI2TVQAEG9ou?format=jpg&name=large
+        - link: https://imgur.com/Ds3FKtw.png
+        - link: https://imgur.com/rssXCG6.png
+    - title: Preparing Weapons
+      video: False
+      images:
+        - link: https://imgur.com/QWszFI9.png
+        - link: https://imgur.com/rJDtfPz.png
+    - title: Tracked And Assaulted
+      video: True
+      images:
+        - link: https://player.vimeo.com/video/680310453?h=3d9db6a37c
+        - link: https://player.vimeo.com/video/680310611?h=32272f51d3
+    - title: Bar
+      video: False
+      images:
+        - link: https://imgur.com/5ZrCPZ0.png
+        - link: https://imgur.com/Erld6Nr.png
+    - title: Desire To Help
+      video: True
+      images:
+        - link: https://player.vimeo.com/video/680320262?h=376ccd8555 
+        - link: https://player.vimeo.com/video/680320211?h=2fdc17b787
+    - title: Hex Gem/Crystal Weaponized
+      video: False
+      images:
+        - link: https://imgur.com/hFWHVxW.png
+        - link: https://imgur.com/69ebII3.png
+    - title: Pleading
+      video: False
+      images:
+        - link: https://imgur.com/C7w5QRj.png
+        - link: https://imgur.com/mDMq0iu.png
+    - title: Entrance
+      video: False
+      images:
+        - link: https://imgur.com/xw9tZpp.png
+        - link: https://imgur.com/7odgiJn.png
+    - title: Loss Of Awareness
+      video: False
+      images:
+        - link: https://imgur.com/oXHQUE5.png
+        - link: https://imgur.com/NXLtXW2.png
 
-- section-title: Jinx and Ekko
+- section-title: Jinx And Ekko
   parallels:
-    - title: Chair
-      video: False
-      images:
-        - link: https://pbs.twimg.com/media/FGpu9EDVIAU4LwW?format=jpg&name=large
-        - link: https://pbs.twimg.com/media/FGpvI2TVQAEG9ou?format=jpg&name=large
     - title: Chair
       video: False
       images:
