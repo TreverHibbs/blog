@@ -22,11 +22,6 @@
       images:
         - link: https://player.vimeo.com/video/679319181?h=07205cf061
         - link: https://player.vimeo.com/video/679336102?h=3fdc5e311b
-    - title: Singing On Bridge
-      video: True
-      images:
-        - link: https://player.vimeo.com/video/680218948?h=375c1c9efe
-        - link: https://player.vimeo.com/video/680221324?h=8c7d65d405
     - title: Shooting Range
       video: False
       images:
@@ -72,6 +67,26 @@
       images:
         - link: https://imgur.com/oXHQUE5.png
         - link: https://imgur.com/NXLtXW2.png
+
+- section-title: Vi
+  parallels:
+    - title: First Aid
+      video: False
+      images:
+        - link: https://imgur.com/0P1uQkC.png
+        - link: https://imgur.com/azLrasd.png
+    - title: Walks Away
+      video: False
+      images:
+        - link: https://imgur.com/RIWpQEj.png
+        - link: https://imgur.com/3zcbYxU.png
+- section-title: Jinx And Vi
+  parallels:
+    - title: Singing On Bridge
+      video: True
+      images:
+        - link: https://player.vimeo.com/video/680218948?h=375c1c9efe
+        - link: https://player.vimeo.com/video/680221324?h=8c7d65d405
 
 - section-title: Jinx And Ekko
   parallels:
