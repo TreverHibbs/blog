@@ -22,8 +22,9 @@ title: My Blog
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   my blog
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: treverhibbs.github.io
+url: https://treverhibbs.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog/" # the subpath of your site, e.g. /blog
 twitter_username: jekyllrb
 github_username:  jekyll
 
