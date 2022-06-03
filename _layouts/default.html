@@ -7,7 +7,7 @@ title: content
   <head>
     <meta charset="utf-8" />
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/styles.css" />
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}" />
     <style>
       @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
     </style>
@@ -17,16 +17,5 @@ title: content
   <body class="container">
     <div class="main">{{ content }}</div>
     <nav class="navigation">{% include navigation.html %}</nav>
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", (user) => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
-        });
-      }
-    </script>
   </body>
 </html>
